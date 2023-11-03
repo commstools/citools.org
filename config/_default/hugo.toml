@@ -19,6 +19,9 @@ defaultContentLanguageInSubdir = false
 
 copyRight = "Copyright (c) 2023 citools.org"
 
+[build.buildStats]
+  enable = true
+
 [social]
   twitter = "citools_org"
 
