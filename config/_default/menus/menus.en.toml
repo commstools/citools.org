@@ -38,15 +38,15 @@
   url = "/toolkits/protein/preamble/"
   weight = 20
 
-[[main]]
-  name = "Articles"
-  url = "/articles/"
-  weight = 30
+#[[main]]
+#  name = "Articles"
+#  url = "/articles/"
+#  weight = 30
 
-[[main]]
-  name = "Resources"
-  url = "/resources/"
-  weight = 40
+#[[main]]
+#  name = "Resources"
+#  url = "/resources/"
+#  weight = 40
 
 # [[main]]
 #  name = "Badge"
