@@ -13,7 +13,7 @@ weight: 20
 ## Principles
 
 {{< callout context="caution" >}}
-Use technically accurate language accessible to audiences from diverse backgrounds. Avoid polarizing terms. Instead, choose neutral words that convey equivalent information and clarity. Resist temptations to rally likeminded peers using language that might alienate or reduce resonance among others. Support advancement of scientific and nutritional literacy around protein. 
+Use technically accurate language accessible to audiences from diverse backgrounds. Avoid polarizing terms. Instead, choose neutral words that convey equivalent information and clarity. Resist temptations to rally likeminded peers using language that may alienate or reduce resonance among others. Support advancement of scientific and nutritional literacy around protein. 
 {{< /callout >}}
 
 ## General 
@@ -28,7 +28,7 @@ Protein is a nutrient -- not a food
 <table>
     <tr>
         <td><strong>Usage</strong></td>
-        <td>Use with sufficient technical accuracy. Exclude colloquial usages. Avoid referecing material that confounds scientific and colloquial meanings of the term. If necessary to reference such material, add clarity where it is needed.</td>
+        <td>Use with sufficient technical accuracy. Exclude colloquial usages. Avoid referecing material that confounds scientific and colloquial meanings of the term. If necessary to reference such usages, add clarity where it is needed.</td>
     </tr>
     <tr>
         <td>
@@ -37,17 +37,13 @@ Protein is a nutrient -- not a food
         <td>
         Protein is a scientific term with two distinct meanings. In nutrition, it refers to one of three macronutrients along with carbohydrates and fats. In chemistry, it refers to a class of molecule. This toolkit refers only to protein the nutrient.
         <br><br>
-        Despite being a well-defined scientific term, "protein" has emerged as a popular colloquialism used simply to refer to foods that are rich in protein, typically of animal origin. Although such usages may be benign in private, informal environments, failure to differentiate between scientific and colloquial meanings of the term can be problematic in formal and public-facing contexts. For instance:
+        Despite being a well-defined scientific term, "protein" has emerged as a popular colloquialism used simply to refer to foods that are rich in protein. Although such usages may be benign in private, informal contexts, failure to differentiate between scientific and colloquial meanings of the term can be problematic in more formal and public-facing communications. For instance:
         <br><br>
         <ul>
         <li>Audiences may believe that in order obtain a sufficient quantity or quality of dietary protein, they must consume "protein" as colloquially defined in their social, cultural, or information environment</li>
-        <li>Audiences may believe that sustainability or food security challenges related to "protein" (the colloquialism) are unavoidable because protein (the nutrient) is essential in our diets</li>
+        <li>Audiences may believe that sustainability challenges related to "protein" (the colloquialism) are unavoidable because protein (the nutrient) is essential in our diets</li>
         </ul>
-        Arguments or statements that draw false conclusions by confounding multiple meanings of a single term are known to suffer from a fallacy of equivocation. As logic is one of the two pillars of scientific knowledge alongside observation, advancing scientific literacy and critical thinking around protein begins with correcting such elementary logical fallacies -- especially in the scientific community and in public-facing communications that claim to be supported by scientific reasoning.
-        <br><br>
-        The ubiquity of colloquial usage is one of the primary arguments against dilligently maintaining the term's scientific meaning. This belies another logic error known as the popularity fallacy: ubiquity does not imply correctness. While it is true the meanings of words change over time, the protein colloquialism problem has nothing to do with the dynamic nature of language. Rather, it is a dilemma of integrity of science communication and public understanding of science.
-        <br><br>
-        Intent regarding colloquial usages of "protein" can vary from deliberate disinformation to entirely innocent lack of critical thinking around such issues. Nevertheless, diluting or changing the meanings of scientific terms to align with social or cultural beliefs, opinions, preferences, or behaviors -- intentional or otherwise -- must be recognized as a pathology of social psychology with potentially serious consequencies. 
+        Arguments or statements that draw false conclusions by confounding multiple meanings of a single term are known to suffer from a fallacy of equivocation. As logic is one of the two pillars of scientific knowledge alongside observation, advancing scientific literacy and critical thinking around protein begins with correcting such elementary logic errors -- especially in the scientific community and in public-facing communications that claim to be supported by scientific reasoning.
         </td>
     </tr>
     <tr>
@@ -56,9 +52,9 @@ Protein is a nutrient -- not a food
         </td>
         <td>
         <ul>
-            <li>The "protein gap." Often used in reference to the amount of meat currently produced and the amount forecast to be demanded in the future.</li>
-            <li>The global "protein shortage" or "global shortfalls in protein production."</li>
-            <li><a href="https://www.bloomberg.com/news/articles/2022-06-08/chicken-on-track-to-overtake-beef-pork-as-top-protein">"poultry’s lower cost is making it the world’s No. 1 protein source"</a></li>
+            <li>The "protein gap." Often used in reference to the difference between the amount of meat currently produced and the amount forecast to be demanded in the future.</li>
+            <li>The "global protein shortage" or "global shortfalls in protein production." Used frequently by companies, organizations, and academics in reference to growing demand for animal products that cannot be met using current production methods.</li>
+            <li>A major media outlet unintentionally spreads misinformation about protein simply by confounding colloquial and scientific usages:<a href="https://www.bloomberg.com/news/articles/2022-06-08/chicken-on-track-to-overtake-beef-pork-as-top-protein">"poultry’s lower cost is making it the world’s No. 1 protein source"</a></li>
         </ul> 
         </td>
     </tr>
@@ -78,20 +74,26 @@ By definition not default or mainstream
         <strong>Notes</strong>:
         </td>
         <td>
-        "Alternative protein" has emerged as a popular term used to describe products designed to imitate or replace animal-based foods such as meat, dairy, and eggs. In addition to such products, the technologies, projects, organizations, businesses, and communities focused on the development and advocacy for 
-        <br>
-         trend and social movement surrounding technologies and products developed to imitate or replace popular animal-based foods such as meat, dairy, and eggs.
+        "Alternative protein" has emerged as a popular term describing products developed to imitate or replace animal-based foods such as meat, dairy, and eggs. It is also used to describe the broader industry surrounding such products, including the technologies, organizations, and companies carrying out related work.
         <br><br>
-        As a result, "alternative protein" is widely used in reference to products and technologies, as well as the projects, organizations, and communities aiming to capitalize on this trend -- socially, professionally, or financially.  The projects, communities, events, and publications have been launched to capitalize on this trend, either socially, professionally, or financially. <br><br>
-        Usage of "alternative protein" diverges from this toolkit's language and terminology principles for several reasons:
-        1. It derives meaning from a trend and social movement, a large body of which positions itself as ideological adversaries 
-        1. it reveals an intention to leverage popularity of a 
-        2. it confounds scientific and colloquial meanings of the term "protein"
-        3. 
+        Additionally, because of the likely stainability and animal welfare advantages of such products, "alternative protein" has become a focal point and defining term for activism and alternative lifestyle communities. Due to the social -- and often highly vocal, publicity-seeking -- nature of such groups, "alternative protein" or "alt. protein" may also refer to a social movement.
+        <br><br>
+        In practice, the "alternative protein" industry and social movement are deeply intertwined, creating a complex set of social, professional, and financial incentivies fueling its growth -- and strengthening its opposition. 
+        <br><br>
+        When used with sufficient context, "alternative protein" is neither a source of ambiguitiy nor socially antagonistic connotations. However, most popular usage of the term fails to provide such context, instead relying on its buzzword status as a social signal or rallying call for support. Such usages diverge from this toolkit's principles for several reasons:
+        <br><br>
+        <ol>
+        <li>Neutrality: It derives meaning from a social movement, a large body of which positions itself as ideologically adversarial and antagonistic toward others</li>
+        <li>Specificity: It often does not clearly differentiate between scientific and colloquial meanings of the term "protein," thereby contributing to scientific and nutritional illiteracy around protein and related topics</li>
+        <li>It often demonstrates a low level of communication integrity. </li>
+        <li>Second, "alternative protein" is frequently used to contrast with "traditional" protein, which often demonstrates both an attempt to leverage loaded terms as well as empirically incorrect.</li>
+        </ol>
+        Although "alt. protein" may include products that are not free from intentional harm to animals, such as incects and cell cultured meats that rely on fetal bovine serum, the term is used as a proxy for "vegan" and 
+        Because of its lack of neutrality and inseparability from an ideological social movement, "alternative protein" should only be used in sentences 
+        Leveraging buzz words can be an effective social media strategy, if one's goals is to maximize engagements. But in the context of social media engagement, maximize is not always the same as optimize. 
         Ironically, these factors work directly against the interests of the goals the "alternative protein" community claims to most champion:
-        1. 
         Usage of "alternative protein" reveals a low level of integrity among organizations and individuals claiming to champion 
-         This appears to be a common phenomenon when good ideas such as  become social movements - the pursuit of social currency and capital become the true incentives of members and original goals get deprioritized and even inverted. The same can be said of religions founded on principles of peace and tolerance, which become 
+        This appears to be a common phenomenon when good ideas such as  become social movements - the pursuit of social currency and capital become the true incentives of members and original goals get deprioritized and even inverted. The same can be said of religions founded on principles of peace and tolerance, which become 
         To be clear, the alternative protein community is responsible for much of the funding and research . However, progress in those areas is happening despite the community's approach to framing and communicating their work, not becuase of it. In practice, this community is building cultural barriers and political risk into the technologies and topics they claim to be working to advance. 
          As such, activity in "alternative protein" communities is 
         "Alternative protein" is problematic for a number of reasons. First, its usage often demonstrates an attept to leverage popularity of a trend or social movement, without consideration for  In many cases, its usage confounds meanings nutritional and colloquial meanings of "protein," thereby playing into cultural 
@@ -103,7 +105,7 @@ By definition not default or mainstream
         "protein alternatives" is not the same as "alternative proteins"
         A common misuse of protein which sometimes simply reflects carelessness of a writer seeking variety or flow in their prose. In other cases, this reflects the colloqual use of "protein" to mean animal-based proteins, which demonstrates nutritional illiteracy or attempts to appeal to confirmation bias and nutritional illiteracy of readers. Protein the nutrient could only correctly be said to have have alternatives in the context of, say, meeting caloric intake requirements, which can also be achieved by consuming other macronutrients.
         <br><br>
-        A primary argument for broad usage of "alternative protein" is that the reality of current markets and dietary patterns dictates the alternative nature of non-animal-based protein-rich foods. Addressing this with the intention of "creating a world where alternative proteins are no longer alternative" is a common rationale within the alternative protein movement. On paper, such reasoning would only be guilty of an inane lack of strategic thinking - the first step in creating such a world would be not to brand oneself as alternative. In practice, the statement of purpose also does not align with the movement's activities, which appear to be dedicated to preserving alternative protein as a counterculture activist movement. This is evidenced by the selection of media outlets, terminology, and figures that dominate the alternative protein infospace. This is a movement with roots in publicity-seeking activism that continues to be driven activists and alternative lifestyle enthusiasts. 
+        A primary argument for broad usage of "alternative protein" is that the reality of current markets and dietary patterns dictates the alternative nature of non-animal-based protein-rich foods. Addressing this with the intention of "creating a world where alternative proteins are no longer alternative" is a common rationale within the alternative protein movement. On paper, such reasoning would only be guilty of a lack of strategic thinking - the first step in creating such a world would be not to brand oneself as alternative. In practice, the statement of purpose also does not align with the movement's activities, which appear to be dedicated to preserving alternative protein as a counterculture activist movement. This is evidenced by the selection of media outlets, terminology, and figures that dominate the alternative protein infospace. This is a movement with roots in publicity-seeking activism that continues to be driven activists and alternative lifestyle enthusiasts. 
         </td>
     </tr>
     <tr>
