@@ -111,16 +111,16 @@ By definition not default or mainstream
 
 
 ### Traditional
-
+{{< callout context="tip" icon="bulb" >}}
+The opposite of modern or novel
+{{< /callout >}}
 <table>
     <tr>
-        <td>Usage:</td>
+        <td><strong>Usage</strong>:</td>
         <td>Use sparingly. Ensure empirical accuracy if referring to historical dietary protein compositions.</td>
     </tr>
     <tr>
-        <td>
-        Notes:
-        </td>
+        <td><strong>Notes</strong>:</td>
         <td>
         .
         </td>
