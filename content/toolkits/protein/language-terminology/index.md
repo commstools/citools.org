@@ -76,22 +76,24 @@ By definition not default or mainstream
         <td>
         "Alternative protein" has emerged as a popular term describing products developed to imitate or replace animal-based foods such as meat, dairy, and eggs. It is further used to describe the broader industry surrounding such products, including the technologies, organizations, and companies carrying out related work.
         <br><br>
-        Additionally, because of the likely stainability and animal welfare advantages of such products, "alternative protein" has become a focal point and defining term for activism and alternative lifestyle communities. Due to the social and often vocal, publicity-seeking nature of such groups, the term also refers to a social movement rooted in activism and alternative lifestyles.
+        Additionally, because of the likely sustainability and animal welfare advantages of such products, "alternative protein" has become a focal point and defining term for activist and alternative lifestyle communities. Due to the social and often vocal, publicity-seeking nature of such groups, the term also refers to a social movement rooted in activism and alternative lifestyles.
         <br><br>
-        In practice, the "alternative protein" industry and social movement are deeply intertwined, creating a complex set of social, professional, and financial incentivies fueling its growth -- and strengthening its opposition. 
+        In practice, the "alternative protein" industry and social movement are deeply intertwined, creating a complex set of social, professional, and financial incentivies fueling its growth, while strengthening opposition from competing industries and ideologies. 
         <br><br>
-        When used with sufficient context, "alternative protein" is neither a source of ambiguitiy nor socially antagonistic connotations. However, most popular usage of the term fails to provide such context, instead relying on its buzzword status as a social signal or rallying call for support. Such usage diverges from this toolkit's principles for several reasons:
+        When used with sufficient context, "alternative protein" is neither a source of ambiguitiy nor socially divisive connotations. However, most popular usage of the term fails to provide such context, instead relying on its buzzword status as a social signal or rallying call to likeminded peers. Such usage diverges from this toolkit's principles for a couple of reasons:
         <br><br>
         <ol>
         <li>Neutrality: It derives meaning from a social movement, a large body of which positions itself as ideologically polarized and adversarial toward others</li>
         <li>Specificity: It does not clearly differentiate between scientific and colloquial meanings of the term "protein," thereby contributing to confusion around related topics</li>
-        <li>Integrity: Popular usage often directly contradicts statements of purpose by users, such as claiming to support mainstream adoption of "alternative protein" products or social values</li>
         </ol>
-        A primary argument for broad usage of "alternative protein" is that the reality of current markets and dietary patterns dictates the alternative nature of non-animal-based protein-rich foods. Addressing this with the intention of "creating a future where alternative proteins are no longer alternative" is a common rationale within the alternative protein social movement.
+        In addition to the above, popular usage of "alternative protein" often demonstrates a low level of communication integrity, as it reveals priorities that directly contradict many statements in which it is used. For instance:
         <br><br>
-        On paper, such reasoning would only be guilty of a lack of strategic thinking -- the first step in creating such a world would be not to brand oneself as alternative. In practice, the statement of purpose also does not align with the movement's activities, which appear to be dedicated to preserving alternative protein as a counterculture activist movement. This is evidenced by the selection of media outlets, terminology, and figures that dominate the alternative protein infospace. This is a movement with roots in publicity-seeking activism that continues to be driven by activists and alternative lifestyle enthusiasts.
+        <ul>
+        <li>Communicators aiming to advance mainstream adoption of alternatives to animal-based protein sources, or to promote constructive policy dialogues around such topics, are careful to avoid socially contentious positioning that may compromise their work. In contrast, those leveraging polarized social signals in their messaging demonstrates a clear willingness to sacrifice progress on such goals in favor of other rewards gained from alignment with a social movement or industry trend.</li>
+        <li>Communicators working toward such goals would also be unlikely to land on "alternative" as the primary theme for their branding and positioning, as the term, by definition, is neither default nor mainstream or traditional. Further, the "alternative" positioning is likely to be unappealing in food and agriculture contexts where "tradition" and social harmony is often celebrated and championed.</li>
+        </ul>
+        It should be noted that the above points are not an appeal to lingustic purism or an argument that "alternative" cannot be used to describe anything aiming to influence or become mainstream. Rather, it is merely an observation regarding the low liklihood that such a term would be chosen by communicators thinking strategically toward such a goal, therefore revealing a different priority of its user.
         <br><br>
-        Reveals a communication strategy aimed at accumulating social currency among peers. 
         </td>
     </tr>
     <tr>
@@ -101,7 +103,7 @@ By definition not default or mainstream
         <td>
         <ul style="list-style: none">
         <li>{{< inline-svg "check" >}} "Animal-based protein sources such as meat have a significantly higher environmental footprint than alternative protein sources such as legumes."</li>
-        <li>{{< inline-svg "x" >}} "We promote alternative proteins"</li>
+        <li>{{< inline-svg "x" >}} "We are an alternative protein organization." "We are investing in alternative protein." "We are building alternative protein communities."</li>
         </ul>
         </td> 
     </tr>
