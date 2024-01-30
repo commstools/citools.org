@@ -80,20 +80,17 @@ By definition not default or mainstream
         <br><br>
         In practice, the "alternative protein" industry and social movement are deeply intertwined, creating a complex set of social, professional, and financial incentivies fueling its growth, while strengthening opposition from competing industries and ideologies. 
         <br><br>
-        When used with sufficient context and specificity, "alternative protein" is neither a source of ambiguitiy nor socially divisive connotations. For instance, in the context of discussion regarding animal-based protein sources or animal-derived proteins, the meaning of "alternative protein sources" or "alternative proteins" is clear and without ambiguity.  However, popular usage often fails to provide such context or specificity, instead leveraging its buzzword status as a signal or rallying call to likeminded peers. Such usage diverges from this toolkit's principles for a couple of reasons:
+        When used with sufficient context and specificity, "alternative protein" is neither a source of ambiguitiy nor socially divisive connotations. For instance, in the context of discussion regarding animal-based protein sources or animal-derived proteins, the meanings of "alternative protein sources" or "alternative proteins" are clear and without ambiguity.  However, popular usage often fails to provide such context or specificity, instead leveraging its buzzword status as a signal or rallying call to likeminded peers. Such usage diverges from this toolkit's principles for a couple of reasons:
         <br><br>
         <ol>
         <li>Neutrality: It derives meaning from a social movement, a large body of which positions itself as ideologically polarized and adversarial toward others</li>
         <li>Specificity: It confounds scientific and colloquial meanings of the term "protein," thereby contributing to confusion around related topics</li>
         </ol>
-        In addition to the above, popular usage of "alternative protein" often demonstrates a low level of communication integrity, as it frequently reveals priorities that directly contradict statements in which it is used. For instance:
+        In addition to the above, popular usage of "alternative protein" often demonstrates low communication integrity. For instance, the term "alternative" denotes non-default, non-mainstream, or non-traditional. However, many proponents of "alternative protein" claim to be working toward the mainstream adoption of such products or social values.
         <br><br>
-        <ul>
-        <li>The term "alternative" denotes non-default, non-mainstream, or non-traditional. However, many proponents of "alternative protein" claim to be working toward the mainstream adoption of such products or social values. The obviousness of this contradiction offers one of the clearest examples of revealed intent diverging from stated intent. It is self evident that a strategic approach to achieving mainstream adoption of anything would preclude branding it as "alternative." Such usage therefore reveals a different priority. In this case, since the "alternative" positioning is actually counterproductive toward such a goal, it demonstrates willingness to sacrifice progress toward the stated goal in favor of other rewards gained from alignment with a community, in this case one that champions an alternative or counterculutre positioning for itself.</li>
-        <li>Similarly, communicators aiming to advance mainstream adoption of alternatives to animal-based protein sources, or to promote constructive policy dialogues around such topics, are careful to avoid socially contentious positioning that may compromise the effectiveness of their work. Those leveraging "alternative protein" as a social signal or marketing tactic choose to </li>
-        </ul>
-        Accurate and conscous usage of words does not demand lingusitic puriusm. This toolkit only presrcibes a critical thinking and a strategic approach to communications that helps remove polarization and political risk from topics regarding emerging protein technologies.
-        It should be noted that the above points are not an appeal to lingustic purism or an argument that "alternative" cannot be used to describe anything aiming to influence or become mainstream. Rather, it is merely an observation regarding the low liklihood that such a term would be chosen by communicators thinking strategically toward such a goal, and it therefore reveals a different priority of its user.
+        The obviousness of this contradiction offers one of the clearest examples of revealed intent diverging from stated intent, as it is self-evident that a strategic approach to achieving mainstream adoption of anything would preclude branding it as "alternative." This usage therefore reveals a different priority: since the "alternative" positioning is actually counterproductive toward the stated goal, it demonstrates willingness to sacrifice such progress in favor of other rewards gained from alignment with a community, in this case one that champions an alternative or counterculutre positioning.
+        <br><br>
+        Accurate and conscious usage of terms such as "alternative" does not demand lingusitic puriusm or inflexibility. This toolkit merely presrcibes basic critical thinking and a strategic approach to communications in order to help remove polarization and political risk from topics related to protein and emerging protein technologies.
         <br><br>
         </td>
     </tr>
@@ -123,7 +120,7 @@ The opposite of modern or novel
     <tr>
         <td><strong>Notes</strong>:</td>
         <td>
-        .
+        "Traditional" is a 
         </td>
     </tr>
 </table>
