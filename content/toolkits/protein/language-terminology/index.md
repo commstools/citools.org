@@ -147,6 +147,7 @@ The opposite of modern or novel
 </table>
 
 ### Protein Industries
+
 <table>
     <tr>
         <td>Usage:</td>
@@ -184,11 +185,44 @@ Terms used to describe specific technologies and protein sources.
 
 ### Cell culture
 
-Debates about which term should be used to describe foods grown from cell culture have played out on social media and in public forums such as. Many of these discussions are aimed at publicity or public expression of alliegance to certain factions or social alliances within the "altnernative protein" community. These discussions have failed to consider core questions and considerations, instead reflecting the the social media and publicity-seeking incentives of the "alternative protein" industry and social movement.
+Debates about which term should be used to describe foods grown from cell culture have played out on social media and in public forums such as. Many of these discussions are aimed at publicity or public expression of alliegance to certain factions or social alliances within the "altnernative protein" community. While caught up in such social activities and posturing, these discussions have failed to examine core questions and considerations about such terminology. Instead, they merely reflect the social media and publicity-seeking incentives of the "alternative protein" industry and social movement.
 
-What those discussion have failed to recognize is that the term's intrinsic meaning does not need to be perfect--it only needs to meet minimal levels of acceptability for accuracy, simplicity, and palatability. What matters more is a term's extrinsic meaning--that which comes from how it is used and understood. This layer of meaning is where connontations are formed, and is determined by who uses the term and how. The most popular term currently in use is "cultivated," which would score well for intrinsic factors. However, extrinsically, it has connotations of exrtemeist activism and alternative lifestyles due to the alliances that have formed around it.
+What those discussion have failed to recognize is that in order to gain widespread adoption, the term's intrinsic meaning does not need to be perfect--it only needs to meet minimal requirements for technical accuracy, simplicity, and palatability for a diverse range of stakeholders. What matters much more is the term's *extrinsic* meaning--that which comes from how it is used and understood. This layer of meaning is where connontations are formed, and is determined by who uses the term, how they use it, and in what contexts.
+
+The most popular term currently in use is "cultivated," which would score well for intrinsic factors. However, extrinsically, it has connotations of exrtemeist activism and alternative lifestyles due to the alliances that have formed around it. As a result, "cultivated" is used by those for "cellular agriculture" or "alternative protein" as a social movement, 
 
 Because of the dynamic nature of words in general, and especially connotations of new terms, this toolkit does not prescribe any specific term. Instead, it provides a list of options and considerations for each. In general, usage that is in line with this toolkit favors those with neutral connotations. Multiple terms may be used to facilitate flow.
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                Term
+            </th>
+            <th>
+                Notes
+            </th>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+        Cell-based, cell-cultured, cultured
+        </td>
+        <td>
+        These terms have similar levels of palatability, as they don't intrinsically carry any implications that could be offensive to any stakeholder. Cell-based scores lower than the others on technical accuracy but higher on simplicity. Cultured is more accurate 
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Cell-based, cell-cultured, cultured
+        </td>
+        <td>
+        These terms have similar levels of palatability, as they don't intrinsically carry any implications that could be offensive to any stakeholder. Cell-based scores lower than the others on technical accuracy but higher on simplicity. Cultured is more accurate 
+        </td>
+    </tr>
+</table>
+
+### Cellular agriculture
 
 ### Microbial
 
