@@ -37,7 +37,7 @@ Protein is a nutrient -- not a food
         <td>
         Protein is a scientific term with two distinct meanings. In nutrition, it refers to one of three macronutrients along with carbohydrates and fats. In chemistry, it refers to a class of molecule. This toolkit refers only to protein the nutrient.
         <br><br>
-        Despite being a well-defined scientific term, "protein" has emerged as a popular colloquialism used simply to refer to foods that are rich in protein. Although such usages may be benign in private, informal contexts, failure to differentiate between scientific and colloquial meanings of the term can be problematic in more formal and public-facing communications. For instance:
+        Despite being a well-defined term, "protein" has emerged as a popular colloquialism used simply to refer to foods that are rich in protein. Although such usages may be benign in private, informal contexts, failure to differentiate between scientific and colloquial meanings of the term can be problematic in more formal and public-facing communications. For instance:
         <br><br>
         <ul>
         <li>Audiences may believe that in order obtain a sufficient quantity or quality of dietary protein, they must consume "protein" as colloquially defined in their social, cultural, or information environment</li>
@@ -115,12 +115,33 @@ The opposite of modern or novel
 <table>
     <tr>
         <td><strong>Usage</strong>:</td>
-        <td>Use sparingly. Ensure empirical accuracy if referring to historical dietary protein compositions.</td>
+        <td>Exclude usages that aim to evoke an emotional response or elicit confirmation bias in audiences. Where possible, choose more neutral terms, such as "conventional." Ensure empirical accuracy if referring to historical dietary patterns or agricultural practices.</td>
     </tr>
     <tr>
         <td><strong>Notes</strong>:</td>
         <td>
-        "Traditional" is a 
+        "Traditional" is a nontechnical term used frequently in communications around food and agriculture, dietary patterns, and culinary activities. In many cases, it connotes and evokes positive associations: traditions are often a source of comfort; they are time-tested and refined; they represent cultural authenticity; they demonstrate awareness of one's ancestors or origins; and they can be a source of common ground and social harmony.
+        <br><br>
+        This loaded nature of the term makes it popular among communicators for a number of reasons:
+        <br><br>
+        <ul>
+        <li>It offers emotive, pursuasive power and may help elicit confirmation bias in audiences</li>
+        <li>It allows communicators to signal, intentionally or unintentionally, their personal feelings, preferences, or likely behavioral patterns</li>
+        </ul>
+        Because "traditional" is a nontechnical term, it is also open to some degree of interpretation, as there is no technical definition regarding the duration or level of adoption needed for something to become a "tradition." However, despite this flexibility in meaning, popular usage of "traditional" in discussions around protein still manages to use the term incorrectly by changing or inverting its meaning to align it with popular beliefs.
+        <br><br>
+        The most common example of such usage occurs in reference to historical dietary patterns and protein compositions. While popular opinion tends to believe that animal-based protein diets are traditional, empirical evidence shows that 
+        Communicators 
+        For instance, communications about protein frequently contrast "alternative proteins" with "traditional" proteins. In the case of protein sources that are still under development or have never gained significant adoption in dietary history, such usage
+        <br><br>
+        Another popular usage is among food service providers. Many restaurants bill themselves as specializing in traditional cuisine. In this case, the term's ambiguity may allow the claim to have merit, as long as it serves dishes that were consumed in the context of some tradition. However, restaurant cuisine is likely to focus on the richest and most decadent of traditional dishes, such as those consumed only during special and festive occasions or rituals. Consuming such foods more frequently or on a daily basis could only be described as modern. Here we encounter again a problem of equivocation - confounding meanings of traditional in refernce to specific dishes vs a cuisine or diet.  However, it can still be misleading.
+        <br><br>
+        Usage of traditional to elicit confirmation bias in audiences can also be a form of the elementary logical fallacy knows as the appeal to tradition. This toolkit is designed to encourage critical thinking, which implies a basic ability to evaluate whether things make sense based upon merit, not historical time or level of adoption. Many traditions have been outlawed, and many persist despite . 
+        Becasue of the, communicators lean on it to  or to (unconsciously) signal their feelings and sympathies. For instance, "we need to shift from traditional to alternative proteins" paraphrases a common statement in the "alternative protein" industry and social movement.   its incorrect usage 
+        In public health, traditions can also be a source.  No intervention can be successful if it doesn't align with local customs and traditions.
+        Usage of traditional that aims to evoke an emotional response or which is empirically inaccurate diverge from this toolkit's principles of encouraging critical thinking and technical accuracy in communications about protein.
+        <br><br>
+        "Traditional" and "modern" should only be used with awareness of their connotations and exploitation, and with special attenion given to empirical accuracy. 
         </td>
     </tr>
 </table>
@@ -162,6 +183,12 @@ The opposite of modern or novel
 Terms used to describe specific technologies and protein sources.
 
 ### Cell culture
+
+Debates about which term should be used to describe foods grown from cell culture have played out on social media and in public forums such as. Many of these discussions are aimed at publicity or public expression of alliegance to certain factions or social alliances within the "altnernative protein" community. These discussions have failed to consider core questions and considerations, instead reflecting the the social media and publicity-seeking incentives of the "alternative protein" industry and social movement.
+
+What those discussion have failed to recognize is that the term's intrinsic meaning does not need to be perfect--it only needs to meet minimal levels of acceptability for accuracy, simplicity, and palatability. What matters more is a term's extrinsic meaning--that which comes from how it is used and understood. This layer of meaning is where connontations are formed, and is determined by who uses the term and how. The most popular term currently in use is "cultivated," which would score well for intrinsic factors. However, extrinsically, it has connotations of exrtemeist activism and alternative lifestyles due to the alliances that have formed around it.
+
+Because of the dynamic nature of words in general, and especially connotations of new terms, this toolkit does not prescribe any specific term. Instead, it provides a list of options and considerations for each. In general, usage that is in line with this toolkit favors those with neutral connotations. Multiple terms may be used to facilitate flow.
 
 ### Microbial
 
